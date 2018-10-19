@@ -1,0 +1,32 @@
+html {
+    font-family: Arial;
+}
+
+
+
+#logo {
+    height: 60px
+}
+
+
+
+
+.Home-Images {
+    box-shadow: 3px 3px rebeccapurple;
+    height: 200px
+}
+
+.Holdings-Images {
+    height: 100px
+}
+
+.Heading {
+    border-bottom: 2px darkgoldenrod solid;
+    color: rebeccapurple
+}
+
+
+.link {
+    color: darkgoldenrod
+}
+
