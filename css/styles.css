@@ -30,3 +30,26 @@ html {
     color: darkgoldenrod
 }
 
+
+NEW
+
+
+
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+header nav {
+    flex: 1;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav li {
+    padding: 1em;
+}
